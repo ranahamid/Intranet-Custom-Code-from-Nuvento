@@ -1,0 +1,6 @@
+﻿<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Custom web parts to support the Administration Site Collection." Id="9226283a-d9b5-4976-9ad2-8620868a31d7" Scope="Site" Title="LG Administration Site Collection - Web Parts" AlwaysForceInstall="true">
+  <ElementManifests>
+    <ElementFile Location="Administration\Administration.webpart" />
+    <ElementManifest Location="Administration\Elements.xml" />
+  </ElementManifests>
+</Feature>
